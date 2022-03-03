@@ -1,0 +1,29 @@
+body {
+    background-color: #F0F1F3;
+    font-family: Inter;
+}
+
+header {
+    background-color: #FFFFFF;
+    height: 82px;
+    margin: -10px -10px 0px -10px
+}
+
+header a {
+    font-size: 12px;
+    color: #61646B;
+    text-decoration: none;
+}
+
+header h1 {
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    color: #18191B;
+    opacity: 0.8;
+    margin-top: 0px;
+}
+
+.route-lists {
+    padding: 16px 0px 19px 26px;
+}
